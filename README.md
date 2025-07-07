@@ -36,10 +36,7 @@ Add your own screenshots to showcase the app! Replace the links below with your 
 |-----------------|------------------|
 | ![Add Transaction](/add-transaction.png) | ![Pie Chart](/pie-chart.png) |
 
-> **How to add screenshots:**
-> 1. Take screenshots of your app (e.g., using Snipping Tool, Print Screen, or your OS screenshot tool).
-> 2. Save them in a `screenshots/` folder in your project directory.
-> 3. Replace the image file names above with your own.
+
 
 ---
 

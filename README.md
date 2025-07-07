@@ -36,15 +36,6 @@ Add your own screenshots to showcase the app! Replace the links below with your 
 |-----------------|------------------|
 | ![Add Transaction](/add-transaction.png) | ![Pie Chart](/pie-chart.png) |
 
-
-
----
-
-## 🛠️ Customization
-- Edit `style.css` for colors and styles.
-- Edit `index.html` and `app.js` for features.
-- Personalize the footer or add your name anywhere you like!
-
 ---
 
 ## 👩‍💻 Credits

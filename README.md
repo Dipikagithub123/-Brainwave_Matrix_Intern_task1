@@ -55,5 +55,3 @@ Add your own screenshots to showcase the app! Replace the links below with your 
 
 ---
 
-## 📄 License
-This project is for personal and educational use. Feel free to modify and share with credit. 
